@@ -10,6 +10,7 @@
     "lodash": "^3.9.3",
     "q": "^1.3.0",
     "reflux": "0.3.0",
-    "reflux-promise": "1.0.4"
+    "reflux-promise": "1.0.4",
+    "slate": "^0.13.6"
   }
 }
